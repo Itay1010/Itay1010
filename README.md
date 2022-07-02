@@ -3,7 +3,7 @@
 
 - 🔭 I’m constantly working on **getting better at programming and technology**
 
-- 👨‍💻 All of my projects are available [Here on github!](Here on github!)
+- 👨‍💻 All of my projects are available Here on github!
 
 - 📫 How to reach me **ezonsh@gmail.com**
 
